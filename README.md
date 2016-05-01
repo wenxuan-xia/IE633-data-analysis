@@ -1,2 +1,2 @@
 # IE633-data-analysis
-Data prepare and Analysis for paper
+Data preparing and Analysis for paper
